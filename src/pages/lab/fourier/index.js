@@ -26,7 +26,7 @@ import { getWave, squareWave } from './wave-things.js';
 import { playSoundWave } from './synth.js';
 import { loopLikeAJpeg } from './jpeg.js';
 
-import './styles.css';
+// import './styles.css';
 
 const Fourier = () => {
 	const ref = useRef(null);

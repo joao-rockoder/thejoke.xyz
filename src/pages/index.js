@@ -18,6 +18,7 @@ const IndexPage = () => (
 			<h2>Playground lab</h2>
 			<Link to="/lab/escape-fractal/">Fractal</Link> <br />
 			<Link to="/lab/fourier/">Fourier</Link> <br />
+			<Link to="/lab/abacus/">abacus</Link> <br />
 		</article>
 	</Layout>
 );
